@@ -1,9 +1,10 @@
 print("Yes I study a programmist ")
-head = 123
-hand = 1456
-print(head + hand)
-for(i=o; i< 1000; i++){
+one_number = 123
+two_number = 1456
+print(one_number + two_number)
+count = 0
+if(one_number > two_number):
+    count+=1
     
-}
-print()
+
 
