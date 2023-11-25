@@ -5,6 +5,7 @@ print(one_number + two_number)
 count = 0
 if(one_number > two_number):
     count+=1
+print(count)
     
 
 
