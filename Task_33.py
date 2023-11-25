@@ -1,5 +1,9 @@
 print("Yes I study a programmist ")
 head = 123
 hand = 1456
-body = head + hand
-print(body)
+print(head + hand)
+for(i=o; i< 1000; i++){
+    
+}
+print()
+
